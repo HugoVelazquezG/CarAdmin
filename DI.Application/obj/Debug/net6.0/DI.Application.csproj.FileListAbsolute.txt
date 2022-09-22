@@ -1,0 +1,15 @@
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\bin\Debug\net6.0\DI.Application.deps.json
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\bin\Debug\net6.0\DI.Application.dll
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\bin\Debug\net6.0\DI.Application.pdb
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\bin\Debug\net6.0\DI.Domain.dll
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\bin\Debug\net6.0\DI.Domain.pdb
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\DI.Application.csproj.AssemblyReference.cache
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\DI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\DI.Application.AssemblyInfoInputs.cache
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\DI.Application.AssemblyInfo.cs
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\DI.Application.csproj.CoreCompileInputs.cache
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\DI.Application.csproj.CopyComplete
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\DI.Application.dll
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\refint\DI.Application.dll
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\DI.Application.pdb
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.Application\obj\Debug\net6.0\ref\DI.Application.dll

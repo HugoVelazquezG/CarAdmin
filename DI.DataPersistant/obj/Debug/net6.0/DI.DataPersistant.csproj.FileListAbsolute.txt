@@ -1,0 +1,15 @@
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\bin\Debug\net6.0\DI.DataPersistant.deps.json
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\bin\Debug\net6.0\DI.DataPersistant.dll
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\bin\Debug\net6.0\DI.DataPersistant.pdb
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\bin\Debug\net6.0\DI.Domain.dll
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\bin\Debug\net6.0\DI.Domain.pdb
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\DI.DataPersistant.csproj.AssemblyReference.cache
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\DI.DataPersistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\DI.DataPersistant.AssemblyInfoInputs.cache
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\DI.DataPersistant.AssemblyInfo.cs
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\DI.DataPersistant.csproj.CoreCompileInputs.cache
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\DI.DataPersistant.csproj.CopyComplete
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\DI.DataPersistant.dll
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\refint\DI.DataPersistant.dll
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\DI.DataPersistant.pdb
+C:\HVelazquez\Personal\Projects\CarAdminNetCore\DI.DataPersistant\obj\Debug\net6.0\ref\DI.DataPersistant.dll
